@@ -1,0 +1,1 @@
+API registration query was made with Go
